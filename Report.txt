@@ -1,0 +1,16 @@
+CS 310 - W2 File System Explorer
+
+By Kaylee Hinton
+
+## How do you list a directory?
+A common way to list a directory in python is by importing
+the os module and using the command os.listdir(). You will
+need to specify the certain area of the directory to list but 
+using "." will list the current subcategories inside that path.
+
+
+## What does argv contain?
+Argv is an argument used for python scripts. The first part of
+the argv command is to call for the python file and then the 
+second part are user specified arguments to determine which 
+directories the script should explore.
